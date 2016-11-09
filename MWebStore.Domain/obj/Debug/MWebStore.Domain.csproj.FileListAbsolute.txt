@@ -1,0 +1,5 @@
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Domain\bin\Debug\MWebStore.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Domain\bin\Debug\MWebStore.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Domain\obj\Debug\MWebStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Domain\obj\Debug\MWebStore.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Domain\obj\Debug\MWebStore.Domain.pdb

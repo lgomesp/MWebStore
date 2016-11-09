@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWebStore.Domain", "MWebStore.Domain\MWebStore.Domain.csproj", "{8313785D-3BED-40ED-B7F2-6955463F52B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{71CBD31D-5BC0-42CC-969D-3A32D6F00DC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Tests", "1 - Tests", "{8A2D1C42-3341-4770-AE04-931033039803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWebStore.Tests", "MWebStore.Tests\MWebStore.Tests.csproj", "{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8313785D-3BED-40ED-B7F2-6955463F52B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313785D-3BED-40ED-B7F2-6955463F52B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313785D-3BED-40ED-B7F2-6955463F52B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8313785D-3BED-40ED-B7F2-6955463F52B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8313785D-3BED-40ED-B7F2-6955463F52B1} = {71CBD31D-5BC0-42CC-969D-3A32D6F00DC7}
+		{3AFB9D7F-BAD7-442A-8E47-D030B8834EE5} = {8A2D1C42-3341-4770-AE04-931033039803}
+	EndGlobalSection
+EndGlobal
