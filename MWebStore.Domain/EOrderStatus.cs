@@ -1,4 +1,4 @@
-﻿namespace MWebStore.Domain
+﻿namespace MWebStore.SharedKernel
 {
     public enum EOrderStatus
     {

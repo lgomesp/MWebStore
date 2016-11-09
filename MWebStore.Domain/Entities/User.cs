@@ -1,4 +1,4 @@
-﻿namespace MWebStore.Domain.Entities
+﻿namespace MWebStore.SharedKernel.Entities
 {
     public class User
     {

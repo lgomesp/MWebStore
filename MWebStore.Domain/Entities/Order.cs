@@ -1,8 +1,10 @@
-﻿using System;
+﻿
+using ModernWebStore.SharedKernel.Validation;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MWebStore.Domain.Entities
+namespace MWebStore.SharedKernel.Entities
 {
     public class Order
     {
@@ -25,7 +27,7 @@ namespace MWebStore.Domain.Entities
         public DateTime Date { get; private set; }
         public IEnumerable<OrderItem> OrderItems {
             get { return _orderItems; }
-            private set { _orderItems = new List<OrderItem>; }
+            private set { _orderItems = new List<OrderItem>(); }
         }
         public int UserId { get; private set; }
         public User User { get; private set; }
@@ -48,7 +50,14 @@ namespace MWebStore.Domain.Entities
 
         public void AddItem(OrderItem item)
         {
-            
+            //if(item.Price <= 0)
+            //    new DomainNotification("Price", "Preço deve ser maior que zero");
+
+            //if (item.Quantity <= 0)
+            //    new DomainNotification("Quantity", "A quantidade deve ser maior que zero");
+
+            //AssertionConcern.IsSatisfiedBy(item.Price, item.Quantity, 0);
+
         }
 
     }
