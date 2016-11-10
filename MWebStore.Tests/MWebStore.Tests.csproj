@@ -54,11 +54,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scope\CategoryScopeTests.cs" />
+    <Compile Include="Scope\UserScopeTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MWebStore.Domain\MWebStore.Domain.csproj">
       <Project>{8313785d-3bed-40ed-b7f2-6955463f52b1}</Project>
       <Name>MWebStore.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MWebStore.SharedKernel\MWebStore.SharedKernel.csproj">
+      <Project>{25DDABB8-06ED-4444-9C63-CD22C8D6B3F2}</Project>
+      <Name>MWebStore.SharedKernel</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

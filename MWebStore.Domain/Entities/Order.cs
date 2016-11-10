@@ -1,5 +1,6 @@
 ﻿
 using ModernWebStore.SharedKernel.Validation;
+using MWebStore.Domain.Scopes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,14 +26,16 @@ namespace MWebStore.SharedKernel.Entities
 
         public int Id { get; private set; }
         public DateTime Date { get; private set; }
-        public IEnumerable<OrderItem> OrderItems {
-            get { return _orderItems; }
+        //public IEnumerable<OrderItem> OrderItems {
+        public ICollection<OrderItem> OrderItems {
+        get { return _orderItems; }
             private set { _orderItems = new List<OrderItem>(); }
         }
         public int UserId { get; private set; }
         public User User { get; private set; }
 
         //propriedade computada (não é armazenada no banco)
+        //calculado em tempo de execução (com valores atualizados)
         public decimal Total
         {
             get
@@ -58,6 +61,32 @@ namespace MWebStore.SharedKernel.Entities
 
             //AssertionConcern.IsSatisfiedBy(item.Price, item.Quantity, 0);
 
+            if (item.Register())
+                _orderItems.Add(item);
+        }
+
+        public void Place()
+        {
+            if (!this.PlaceOrderScopeIsValid())
+                return;
+        }
+
+        public void MarkAsPaid()
+        {
+            // Dá baixa no estoque
+            this.Status = EOrderStatus.Paid;
+        }
+
+        public void MarkAsDelivered()
+        {
+            this.Status = EOrderStatus.Delivered;
+        }
+
+        public void Cancel()
+        {
+            // Estorna os produtos
+
+            this.Status = EOrderStatus.Canceled;
         }
 
     }
