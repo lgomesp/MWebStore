@@ -1,0 +1,14 @@
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.Infraestructure.dll.config
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.Infraestructure.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.Infraestructure.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\EntityFramework.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.SharedKernel.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\EntityFramework.xml
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\bin\Debug\MWebStore.SharedKernel.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\obj\Debug\MWebStore.Infraestructure.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\obj\Debug\MWebStore.Infraestructure.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Infraestructure\obj\Debug\MWebStore.Infraestructure.pdb

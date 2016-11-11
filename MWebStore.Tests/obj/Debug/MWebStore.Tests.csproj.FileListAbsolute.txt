@@ -1,0 +1,9 @@
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.Tests.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.Tests.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.SharedKernel.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\bin\Debug\MWebStore.SharedKernel.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\obj\Debug\MWebStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\obj\Debug\MWebStore.Tests.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.Tests\obj\Debug\MWebStore.Tests.pdb

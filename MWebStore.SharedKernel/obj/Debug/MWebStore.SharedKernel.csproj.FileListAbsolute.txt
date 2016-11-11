@@ -1,0 +1,4 @@
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.SharedKernel\bin\Debug\MWebStore.SharedKernel.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.SharedKernel\bin\Debug\MWebStore.SharedKernel.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.SharedKernel\obj\Debug\MWebStore.SharedKernel.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.SharedKernel\obj\Debug\MWebStore.SharedKernel.pdb
