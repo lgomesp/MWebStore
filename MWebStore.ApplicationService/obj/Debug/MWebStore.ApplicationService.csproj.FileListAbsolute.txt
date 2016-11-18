@@ -1,0 +1,13 @@
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.ApplicationService.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.ApplicationService.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.Domain.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.Infraestructure.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.SharedKernel.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\EntityFramework.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.Domain.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.Infraestructure.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\MWebStore.SharedKernel.pdb
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\bin\Debug\EntityFramework.xml
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\obj\Debug\MWebStore.ApplicationService.csprojResolveAssemblyReference.cache
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\obj\Debug\MWebStore.ApplicationService.dll
+C:\Users\GreenMind\Desktop\Lucas\ABT\1940\MWebStore\MWebStore.ApplicationService\obj\Debug\MWebStore.ApplicationService.pdb

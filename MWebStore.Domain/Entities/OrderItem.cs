@@ -5,11 +5,7 @@ namespace MWebStore.SharedKernel.Entities
 {
     public class OrderItem
     {
-        public OrderItem(int quantity, decimal price)
-        {
-            this.Quantity = quantity;
-            this.Price = price;
-        }
+        public OrderItem() { }
 
         public int Id { get; private set; }
         public int Quantity { get; private set; }
@@ -28,7 +24,6 @@ namespace MWebStore.SharedKernel.Entities
 
         public void AddProduct(Product product, int quantity, decimal price)
         {
-            //preço atual do produto
             if (!this.AddProductScopeIsValid(product, price, quantity))
                 return;
 
@@ -40,6 +35,5 @@ namespace MWebStore.SharedKernel.Entities
             // Reserva o estoque
             this.Product.UpdateQuantityOnHand(this.Product.QuantityOnHand - quantity);
         }
-
     }
 }
